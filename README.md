@@ -1,6 +1,12 @@
 # TalentScout: Intelligent Hiring Assistant 
 In this project I built a AI-Powered Hiring Assistance chatbot the helps in the initial screening process for the candidates in tech roles. This project is built with `streamlit` and the AI agent used is `google.generativeai` this agent gathers the candidate information and dynamically generates messages based on the candidate tech stack and chat history. 
 
+## 🚀 Live Demo
+👉 [Run on Hugging Face Spaces](https://huggingface.co/spaces/Satyam0077/TalentScout_Chatbot)
+
+<img width="367" height="388" alt="Screenshot 2025-08-26 224619" src="https://github.com/user-attachments/assets/771c0eb2-b9e7-4b36-9194-d93b6763c96e" />
+
+
 ## Key Features
 - Clean and minimal UI 
 - Collects essential details of the candidate
